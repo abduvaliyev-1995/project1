@@ -1,0 +1,28 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sat, 06 Feb 2021 09:15:58 at www.google.com
+(winhttrack www.google.com -O "/root/websites/project1" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:17:01	Warning: 	Moved Permanently for www.google.com/intl/uz/about/
+09:17:01	Warning: 	File has moved from www.google.com/intl/uz/about/ to https://about.google/intl/uz/
+09:17:14	Error: 	"Not Found" (404) at link https://www.google.com/gci_91f30755d6a6b787dcc2a4062e6e9824.js (from https://www.google.com/preferences?hl=uz)
+09:17:14	Error: 	"Not Found" (404) at link https://www.google.com/Edg/ (from https://www.google.com/preferences?hl=uz)
+09:17:14	Warning: 	Moved Permanently for https://www.google.com/+/
+09:17:14	Warning: 	File has moved from https://www.google.com/+/ to https://plus.google.com/
+09:17:39	Error: 	"Not Found" (404) at link https://www.google.com/gbar.C (from https://www.google.com/preferences?hl=uz)
+09:18:34	Warning: 	Moved Permanently for https://www.google.com/intl/en/ads/
+09:18:34	Warning: 	File has moved from https://www.google.com/intl/en/ads/ to https://ads.google.com/intl/en/home/
+09:18:34	Warning: 	Moved Permanently for https://www.google.com/intl/en/about/
+09:18:34	Warning: 	File has moved from https://www.google.com/intl/en/about/ to https://about.google/intl/en/
+09:18:39	Warning: 	Found for https://www.google.com/history/Edg/
+09:18:39	Warning: 	File has moved from https://www.google.com/history/Edg/ to https://myactivity.google.com/history/Edg/
+09:18:39	Warning: 	Found for https://www.google.com/history/+/
+09:18:39	Warning: 	File has moved from https://www.google.com/history/+/ to https://myactivity.google.com/history/+/
+09:18:46	Error: 	"Not Found" (404) at link https://www.google.com/intl/en/policies/privacy/curl (from https://www.google.com/intl/en/policies/privacy/)
+09:18:46	Error: 	"Not Found" (404) at link https://www.google.com/intl/en/policies/terms/curl (from https://www.google.com/intl/en/policies/terms/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 48 seconds : 31 links scanned, 18 files written (1961902 bytes overall) [634041 bytes received at 3774 bytes/sec], 1935070 bytes transferred using HTTP compression in 18 files, ratio 27%
+(5 errors, 12 warnings, 0 messages)
